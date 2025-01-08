@@ -1,9 +1,8 @@
-# Hono - Tailwind 
+# Hono - Tailwind
 
 A Starter for using tailwind with hono
 
 Use Hono with a similar experience to react
-
 
 ## Qucik Start
 
@@ -11,10 +10,11 @@ Clone the project, Run
 
 ```bash
   bun install
-  bun run dev
+  bun dev
 ```
+
 Visit http://localhost:3000
-    
+
 ## Dependencies
 
 [![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff)](#)

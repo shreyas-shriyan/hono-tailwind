@@ -1,7 +1,7 @@
 {
   "name": "hono",
   "scripts": {
-    "dev": "npx concurrently npm run dev-hono\"\" \"npm run dev-tailwind\"",
+    "dev": "npx concurrently \"npm run dev-hono\" \"npm run dev-tailwind\"",
     "dev-hono": "bun run --hot src/index.tsx",
     "dev-tailwind": "tailwindcss -i ./src/index.css -o ./static/output.css --watch"
   },
